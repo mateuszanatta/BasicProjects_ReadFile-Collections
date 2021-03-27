@@ -1,0 +1,16 @@
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.csprojAssemblyReference.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.AssemblyInfoInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.AssemblyInfo.cs
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.csproj.CoreCompileInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ReadFileDictionaries.exe
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ReadFileDictionaries.deps.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ReadFileDictionaries.runtimeconfig.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ReadFileDictionaries.runtimeconfig.dev.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ReadFileDictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ref\ReadFileDictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\bin\Debug\net5.0\ReadFileDictionaries.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ref\ReadFileDictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaries\obj\Debug\net5.0\ReadFileDictionaries.genruntimeconfig.cache

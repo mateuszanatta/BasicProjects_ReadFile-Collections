@@ -1,0 +1,16 @@
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ReadFileList.exe
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ReadFileList.deps.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ReadFileList.runtimeconfig.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ReadFileList.runtimeconfig.dev.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ReadFileList.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ref\ReadFileList.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\bin\Debug\net5.0\ReadFileList.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.csprojAssemblyReference.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.AssemblyInfoInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.AssemblyInfo.cs
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.csproj.CoreCompileInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ref\ReadFileList.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFileList\obj\Debug\net5.0\ReadFileList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.csprojAssemblyReference.cache
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfo.cs
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\Dictionaries.exe
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\Dictionaries.deps.json
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.json
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.dev.json
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\Dictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\ref\Dictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\bin\Debug\net5.0\Dictionaries.pdb
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\ref\Dictionaries.dll
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.pdb
+C:\Learning\.NET\BeginningC#Collections\Dictionaries\obj\Debug\net5.0\Dictionaries.genruntimeconfig.cache

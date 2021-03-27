@@ -1,0 +1,16 @@
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\Array.exe
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\Array.deps.json
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\Array.dll
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Learning\.NET\BeginningC#Collections\Array\bin\Debug\net5.0\Array.pdb
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.dll
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.pdb
+C:\Learning\.NET\BeginningC#Collections\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache

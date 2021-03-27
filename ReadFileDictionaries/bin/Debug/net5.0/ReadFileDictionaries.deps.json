@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ReadFileDictionaries/1.0.0": {
+        "runtime": {
+          "ReadFileDictionaries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadFileDictionaries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

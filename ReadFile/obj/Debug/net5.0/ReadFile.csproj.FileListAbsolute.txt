@@ -1,0 +1,16 @@
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ReadFile.exe
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ReadFile.deps.json
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ReadFile.runtimeconfig.json
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ReadFile.runtimeconfig.dev.json
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ReadFile.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ref\ReadFile.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFile\bin\Debug\net5.0\ReadFile.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.csprojAssemblyReference.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.AssemblyInfoInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.AssemblyInfo.cs
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.csproj.CoreCompileInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ref\ReadFile.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFile\obj\Debug\net5.0\ReadFile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.csprojAssemblyReference.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.AssemblyInfoInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.AssemblyInfo.cs
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.csproj.CoreCompileInputs.cache
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ReadFileDictionaryOfLists.exe
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ReadFileDictionaryOfLists.deps.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ReadFileDictionaryOfLists.runtimeconfig.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ReadFileDictionaryOfLists.runtimeconfig.dev.json
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ReadFileDictionaryOfLists.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ref\ReadFileDictionaryOfLists.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\bin\Debug\net5.0\ReadFileDictionaryOfLists.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ref\ReadFileDictionaryOfLists.dll
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.pdb
+C:\Learning\.NET\BeginningC#Collections\ReadFileDictionaryOfLists\obj\Debug\net5.0\ReadFileDictionaryOfLists.genruntimeconfig.cache
